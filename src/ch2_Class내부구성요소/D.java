@@ -1,4 +1,4 @@
-package Class내부구성요소;
+package ch2_Class내부구성요소;
 
 public class D {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Static제어자;
+package ch3_Static제어자;
 
 public class D {
 	private static int n;

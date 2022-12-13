@@ -1,4 +1,4 @@
-package String참조자료형;
+package ch1_String참조자료형;
 
 public class Hello3 {
 	public static void main(String[] args) {
