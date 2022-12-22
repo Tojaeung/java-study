@@ -45,14 +45,19 @@
 ### 9. final
 
 - ([포스팅 보러가기](https://tojaeung.com/post/84))
-- ([코드 보러가기](/src/ch5_final/part5/Run.java))
+- ([코드 보러가기](/src/ch5_final/Run.java))
 
 ### 10. abstract
 
 - ([포스팅 보러가기](https://tojaeung.com/post/84))
-- ([코드 보러가기](/src/ch5_abstract/part5/Run.java))
+- ([코드 보러가기](/src/ch5_abstract/Run.java))
 
-### 11. 추상 클래스
+### 11. 인터페이스
 
-- ([포스팅 보러가기](https://tojaeung.com/post/88))
-- ([코드 보러가기](/src/ch6_추상클래스/part5/Run.java))
+- ([포스팅 보러가기](https://tojaeung.com/post/91))
+- ([코드 보러가기](/src/ch7_인터페이스/Run.java))
+
+### 12. 이너 클래스
+
+- ([포스팅 보러가기](https://tojaeung.com/post/96))
+- ([코드 보러가기](/src/ch6_이너클래스/A.java))
